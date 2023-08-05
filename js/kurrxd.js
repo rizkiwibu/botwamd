@@ -3116,8 +3116,8 @@ let name = username + "1GB"
 let egg = global.eggsnya
 let loc = global.location
 let memo = "1024"
-let cpu = "10"
-let disk = "0"
+let cpu = "30"
+let disk = "1024"
 let email = username + "1398@gmail.com"
 akunlo = "https://telegra.ph/file/bf0cc54b25412e1e13440.jpg" 
 if (!u) return
@@ -3232,8 +3232,8 @@ let name = username + "2GB"
 let egg = global.eggsnya
 let loc = global.location
 let memo = "2048"
-let cpu = "200"
-let disk = "0"
+let cpu = "50"
+let disk = "2048"
 let email = username + "1398@gmail.com"
 akunlo = "https://telegra.ph/file/bf0cc54b25412e1e13440.jpg" 
 if (!u) return
@@ -3353,8 +3353,8 @@ let name = username + "3GB"
 let egg = global.eggsnya
 let loc = global.location
 let memo = "3072"
-let cpu = "300"
-let disk = "0"
+let cpu = "75"
+let disk = "3072"
 let email = username + "1398@gmail.com"
 akunlo = "https://telegra.ph/file/bf0cc54b25412e1e13440.jpg" 
 if (!u) return
@@ -3568,8 +3568,8 @@ let name = username + "4GB"
 let egg = global.eggsnya
 let loc = global.location
 let memo = "4114"
-let cpu = "400"
-let disk = "0"
+let cpu = "100"
+let disk = "4114"
 let email = username + "1398@gmail.com"
 akunlo = "https://telegra.ph/file/bf0cc54b25412e1e13440.jpg" 
 if (!u) return
@@ -3689,8 +3689,8 @@ let name = username + "5GB"
 let egg = global.eggsnya
 let loc = global.location
 let memo = "5138"
-let cpu = "500"
-let disk = "0"
+let cpu = "130"
+let disk = "5138"
 let email = username + "1398@gmail.com"
 akunlo = "https://telegra.ph/file/bf0cc54b25412e1e13440.jpg" 
 if (!u) return
