@@ -5,9 +5,9 @@ global.owner = ['6285878836361','6285878836361'] // no gw ( 5285 ) jan di hapus 
 global.packname = 'Iky crate panel'
 global.author = 'BY IKY BOT'
 global.sessionName = 'session' // nama session
-global.domain = 'https://panel.arxzydev.xyz' // Isi Domain Lu
-global.apikey = 'ptla_YvzLVJChKa9CfcrqyqPbHDBu3TJzzZWDSycKJU9eoQj' // Isi Apikey Plta Lu
-global.capikey = 'ptlc_wJO5ofIgkqOjlc3AHpOLGyaERgNUDJyWleYm5o1c61p' // Isi Apikey Pltc Lu
+global.domain = 'https://ikystore.panellku.biz.id' // Isi Domain Lu
+global.apikey = 'ptla_zRMPOpIdQMmXOHrVzkAz6kBGUp4XEhXAUkAx0yrycMb' // Isi Apikey Plta Lu
+global.capikey = 'ptlc_jUj5DZZRJOuOAbXlZMIUdj2FiHAqFO05Ti3GhBnlGuP' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
 global.location = '1' // id location
 
