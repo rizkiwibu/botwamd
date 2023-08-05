@@ -1,0 +1,8 @@
+json
+{
+  "build": {
+    "env": {
+      "FFMPEG_INSTALL_METHOD": "prebuilt"
+    }
+  }
+}
